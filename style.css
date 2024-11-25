@@ -1,3 +1,7 @@
+h1 {
+
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -30,3 +34,7 @@ body {
     text-align: center;
 }
 
+.linha {
+    display: flex;
+    justify-content: center;
+}
